@@ -5,10 +5,10 @@ This project is a simple Student Management REST API built using Django and Djan
 It supports full CRUD operations (Create, Read, Update, Delete) for managing student data.
 
 ## ⚙️ Tech Stack
-- ** Python
-- ** Django
-- ** Django REST Framework
-- ** SQLite (default database)
+-  Python
+-  Django
+-  Django REST Framework
+-  SQLite (default database)
 
 ## 🚀 Features
 
